@@ -44,7 +44,7 @@ The program will display the ASCII art representation of the selected image in t
 
 Here is an example of what the output might look like for a simple image:
 
-![Example Output](images/your-image.png)
+![Example Output](images/output.png)
 
 
 
