@@ -54,5 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 - Thanks to [ImageIO](https://docs.oracle.com/javase/7/docs/api/javax/imageio/package-summary.html) for image handling in Java.
 - The ASCII character set used is custom, but can be modified to suit your needs.
-```
 
